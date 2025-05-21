@@ -70,7 +70,7 @@ Este repositório contém implementações equivalentes da lógica em diferentes
 
 * [Online Lua Interpreter – Tutorialspoint](https://www.tutorialspoint.com/execute_lua_online.php)
 * [Online C Compiler – Programiz](https://www.programiz.com/c-programming/online-compiler/)
-* [Online Python Interpreter](https://www.programiz.com/python-programming/online-compiler/)
+* [Online Python Interpreter – Programiz](https://www.programiz.com/python-programming/online-compiler/)
 
 ---
 
